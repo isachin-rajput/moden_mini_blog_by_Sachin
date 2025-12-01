@@ -42,85 +42,77 @@ Designed for learning, assignments, demos, and portfolio projects.
 ---
 
 ## 🔑 Demo Login Accounts (Client-side Only)
-Role	Username	Password
-Admin	admin	adminpass
-Author	author1	pass1
-Author	author2	pass2
+- Role	Username	Password
+- Admin	admin	adminpass
+- Author	author1	pass1
+- Author	author2	pass2
 
 ⚠️ These are for demo only — not real authentication.
 ---
 ## 🧠 How It Works
 **📌 Home View**
 
-Displays latest posts
+- Displays latest posts
 
-Supports tag filtering & search
+- Supports tag filtering & search
 
-Responsive 2-column grid
+- Responsive 2-column grid
 
 **📌 Post Reader**
 
-Renders selected post
+- Renders selected post
 
-Shows author, date, hero image
+- Shows author, date, hero image
 
-Includes next/previous navigation
+- Includes next/previous navigation
 
-Includes share buttons
+- Includes share buttons
 ---
 ## 📌 Theme Toggle
 
-Switches CSS variables between:
+- **Switches CSS variables between:**
 
-Dark mode (default)
+- Dark mode (default)
 
-Light mode
----
+- Light mode
+
 ## 🧩 Future Enhancements
 
-Planned improvements if converting into a full CMS:
-
-Backend API (Node/Express or Django)
-
-Database (MongoDB, PostgreSQL, Firebase)
-
-Real authentication + JWT
-
-Drag-and-drop rich post editor
-
-Comments, likes, categories
-
-RSS feed, sitemap & SEO engine
-
-PWA mobile app version
+- Planned improvements if converting into a full CMS:
+- Backend API (Node/Express or Django)
+- Database (MongoDB, PostgreSQL, Firebase)
+- Real authentication + JWT
+- Drag-and-drop rich post editor
+- Comments, likes, categories
+- RSS feed, sitemap & SEO engine
+- PWA mobile app version
 ---
 
 ## 🚀 Live Demo (GitHub Pages)
 
-> After enabling GitHub Pages:
+> [view](https://isachin-rajput.github.io/moden_mini_blog_by_Sachin/)
 ---
 ## 📄 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
 
-##🌟 Acknowledgements
+## 🌟 Acknowledgements
 
-Unsplash images
-
-Font Awesome icons
-
-Google Fonts (Inter, Merriweather)
+- Unsplash images
+- Font Awesome icons
+- Google Fonts (Inter, Merriweather)
 ---
+## Connect wiyh Developer
+**[LinkedIn](https://linkedin.com/in/i-sachin)**
 
 # ✔ Want me to also generate?
-
-### ✅ A ZIP file of the *entire optimized repository*  
-### ✅ A GitHub Release package  
-### ✅ A version with minified CSS/JS for production  
-### ✅ A Next.js or React rewrite  
-### ✅ A backend-enabled version (Node/PHP/Python + database)  
-### ✅ A GitHub Project Board + Issue Templates  
+- ✅ A ZIP file of the *entire optimized repository*  
+- ✅ A GitHub Release package  
+- ✅ A version with minified CSS/JS for production  
+- ✅ A Next.js or React rewrite  
+- ✅ A backend-enabled version (Node/PHP/Python + database)  
+- ✅ A GitHub Project Board + Issue Templates  
 
 Just tell me **"Generate ZIP"** or **"Create full backend version"**, and I’ll produce it!
 

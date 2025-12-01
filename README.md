@@ -103,8 +103,9 @@ You are free to use, modify, and distribute it.
 - Font Awesome icons
 - Google Fonts (Inter, Merriweather)
 ---
-## Connect wiyh Developer
-**[LinkedIn](https://linkedin.com/in/i-sachin)**
+## Connect with Developer
+ connect on **[LinkedIn](https://linkedin.com/in/i-sachin)**
+---
 
 # ✔ Want me to also generate?
 - ✅ A ZIP file of the *entire optimized repository*  
